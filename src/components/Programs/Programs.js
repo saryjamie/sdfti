@@ -1,5 +1,7 @@
 import React from "react";
 
-const Programs = () => {};
+const Programs = () => {
+  return <p>List of Programs</p>;
+};
 
 export default Programs;
