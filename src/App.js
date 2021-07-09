@@ -11,6 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload. Flight School virsion
         </p>
         <Programs />
+        <Programs />
         <a
           className="App-link"
           href="https://reactjs.org"
