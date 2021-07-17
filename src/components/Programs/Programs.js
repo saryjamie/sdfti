@@ -7,6 +7,7 @@ function Programs() {
       <p>PPL</p>
       <p>CPL</p>
       <p>IFR</p>
+      <p>CFI</p>
     </div>
   );
 }
