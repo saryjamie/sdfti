@@ -13,7 +13,7 @@ function App() {
         </p>
         <Programs />
         <About />
-        <Programs />
+
         <a
           className="App-link"
           href="https://reactjs.org"
